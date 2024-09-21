@@ -1,3 +1,5 @@
+const header = `👑| 𝐀𝐃𝐌𝐈𝐍(𝐒) 𝑽𝑰𝑷 𝑼𝑺𝑬𝑹𝑺`;
+
 const fs = require("fs");
 
 const vipFilePath = "vip.json";
